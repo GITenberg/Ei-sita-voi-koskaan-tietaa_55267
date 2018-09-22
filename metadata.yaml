@@ -1,0 +1,45 @@
+_repo: Ei-sita-voi-koskaan-tietaa_55267
+_version: 0.0.1
+alternative_title: You never can tell. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Helmi Setälä
+    - Setala, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, George Bernard
+    - Shaw, Bernhard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2017-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55267'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Runaway husbands -- Drama'
+- !lcsh 'Wives -- Drama'
+- !lcsh 'England -- Drama'
+- !lcc 'PR'
+- !lcsh 'Fathers -- Drama'
+- !lcsh 'Children -- Drama'
+- GITenberg
+title: Ei sitä voi koskaan tietää
+url: http://www.gutenberg.org/ebooks/55267
